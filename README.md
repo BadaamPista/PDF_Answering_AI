@@ -1,4 +1,4 @@
-                                                                                                            PDF_Answering_AI
+                                                                     PDF_Answering_AI
 
 **Project Overview**
 
